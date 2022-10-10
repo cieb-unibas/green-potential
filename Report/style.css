@@ -1,0 +1,26 @@
+/* Whole document: */
+
+body{margin-top: 0px;
+   margin:0;
+  font-family: "Candara";
+  font-size: 14pt;
+}
+/* Headers */
+h4{
+  font-size: 18pt;
+  font-family: "Candara";
+}
+
+h5{
+  font-size: 16pt;
+  font-family: "Candara";
+}
+
+img { 
+  width:100%; height:100%;
+  object-fit: cover;
+}
+
+td { font-size: 11pt; }
+
+

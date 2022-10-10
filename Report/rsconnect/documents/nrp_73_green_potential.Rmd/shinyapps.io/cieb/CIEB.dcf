@@ -1,0 +1,12 @@
+name: CIEB
+title: CIEB
+username:
+account: cieb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1390238
+bundleId: 4650952
+url: https://cieb.shinyapps.io/CIEB/
+when: 1622207111.91758
+asMultiple: FALSE
+asStatic: FALSE

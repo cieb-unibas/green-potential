@@ -1,0 +1,12 @@
+name: nrp_73_green_potential
+title: nrp_73_green_potential
+username:
+account: cieb
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2431563
+bundleId: 4768076
+url: https://cieb.shinyapps.io/nrp_73_green_potential/
+when: 1624959357.5194
+asMultiple: FALSE
+asStatic: FALSE
